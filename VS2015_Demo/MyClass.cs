@@ -8,5 +8,6 @@ namespace VS2015_Demo
 {
     class MyClass
     {
+        //This is some text to notice the changes that i have made
     }
 }
