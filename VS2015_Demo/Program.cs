@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace VS2015_Demo
+﻿namespace VS2015_Demo
 {
+    // ReSharper disable once ArrangeTypeModifiers
     class Program
     {
-        static void Main(string[] args)
+        // ReSharper disable once ArrangeTypeMemberModifiers
+        static void Main()
         {
         }
     }
