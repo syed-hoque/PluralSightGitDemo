@@ -6,6 +6,7 @@
         // ReSharper disable once ArrangeTypeMemberModifiers
         static void Main()
         {
+            //Some changes to be send to GitHub
         }
     }
 }
